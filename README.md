@@ -6,7 +6,9 @@ Author: Harrison Farrell\
 Email: H.Thomas.Farrell@Gmail.com
 
 ### Description
-A programming task to take an input file of order book feeds and produce price depth snapshots in a human readable format
+An order book lists the number of shares being bid on or offered at each price point, or market depth. It also identifies the market participants behind the buy and sell orders, though some choose to remain anonymous. These lists help traders and also improve market transparency because they provide valuable trading information. 
+
+This is a programming task to take an input file of order book feeds and produce price depth snapshots in a human readable format
 
 The first section, Order Book & Price Depth , details what an order book and a price depth are and how they relate to each other. This will be helpful to understand what it means to handle an order book feed and produce a price depth snapshot.
 

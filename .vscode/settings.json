@@ -1,0 +1,10 @@
+{
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "C_Cpp.formatting": "default",
+    "editor.formatOnPaste": true,
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "clang-format.fallbackStyle": "Google",
+}

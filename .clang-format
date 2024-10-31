@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+IndentPPDirectives: BeforeHash
+
+UseTab: Never
+TabWidth: 2
+ConstructorInitializerIndentWidth: 2
+ContinuationIndentWidth: 2
+IndentWidth: 2
